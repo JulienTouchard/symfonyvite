@@ -26,7 +26,7 @@ return [
         'entrypoint' => true,
     ],
     'register' => [
-        'path' => './assets/register.jsx',
+        'path' => './assets/register.js',
         'entrypoint' => true,
     ],
 ];

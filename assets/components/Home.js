@@ -1,11 +1,9 @@
 import React from 'react'
 
-function Home() {
+export default function Home (){
   return (
     <div>
       Hello FROM React! And Vite
     </div>
   )
 }
-
-export default Home
